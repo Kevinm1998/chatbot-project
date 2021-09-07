@@ -1,0 +1,60 @@
+Are you a robot?
+Yes, I am a Robot
+Are you a bot?
+Yes, I am a Bot
+Are you real?
+I am a ChatBot
+What is your name?
+My name is ChatBot
+categories:
+greetings
+Hello 
+Hi
+Hi
+Hello
+Greetings!
+Hi, How is it going?
+Good
+How is it going?
+Fine 
+Hi, How is it going?
+Could be better.
+How are you doing?
+Good.
+How are you doing?
+Very well, thanks.
+Nice to meet you.
+Thank you.
+How do you do?
+I'm doing well.
+Hi, nice to meet you.
+Thank you. You too.
+It is a pleasure to meet you.
+Thank you. You too.
+What's up?
+Not much.
+Bye
+Ok bye.
+start chat
+What dou you want to know about us..The company/Services provided/Courses/Job vacancies
+The company?
+Cloud Swan solution is a software engineering solutions provider offering reliable software solutions in domains such as Knowledge Management, Healthcare and Telecom, Enterprise Mobility, and Search technologies.Cloud Swan specializes in providing Information Technology, Software Services, Quality Assurance and Technical and Application support for complex domains too and to operationalize and support your IT platform round the clock.
+Services provided?
+Development, Software testing, Mobile Apps, Business Oursource, Business Promotion, Other Services.
+Courses?
+Software testing, Java, Digital Marketing, Web designing, Python, AWS, SAP, Salesforce, Machine learning, Selenium.
+Job vacancies?
+For job please upload your updated resume to hr@cloudswansolutions.com.
+Software testing?
+1.Manual Testing Basics  2.Software Development Life Cycle(SDLC)  3.Software Test Life Cycle(STLC)  4.Software Models  5.Test Case Design  6.Reviews and Rework  7.Test Planning and Execution  8.Bug Reporting  9.Risk Management  10.Test Estimation  11.Agile Testing Methodologies  12.Testing Tools  13.Linux Basics  14.ISTQB Certification Help.
+Java?
+1.Introduction to Java  2.Programming Constructs in Java  3.OOPS  in Java, Applet  4.AWT and Swings  5.Exception Handling  6.Threading  7.Remote Method Invocation.
+Web designing?
+1. INTRODUCTION TO WEB DESIGNING  2.ADOBE PHOTOSHOP CC  3.WORKING WITH ADOBE PHOTOSHOP  4.INTRODUCTION TO HTML & DHTML  5.CSS- CASCADING STYLE SHEETS  6.WORKING WITH JAVA SCRIPT  7.CREATION OF WEBSITES  8.WEB HOSTING WITH THE HELP OF FTP  9.WORKING WITH ADOBE DREAMWEAVER- CC  10.TESTING- IMPLEMENTATION  11.Introduction to PHP.
+Python?
+1.Introduction  2.Conditional Statements  3.Looping  4.Control Statements  5.String Manipulation  6.Lists  7.Tuple  8.Dictionaries  9.Functions  10. Modules  11.Input-Output  12.Exception Handling  13.Advance Python  14.OOPs concept
+SAP?
+1.SAP BASIS Course Content  2.The Architecture of SAP R/3  3.Landscape and Implementation Lifecycle  4.Overview of Software Development  5.Working with SAP server  6.Management of users  7.CCMS & Configurations  8.SAP R/3 Client Management  9.The Transport System  10.Patch Management  11.SAP Printing System  12.General Administration Utilities  13.Installation and Guidelines
+AWS?
+1.Introduction to Cloud  2.Introduction to AWS  3.AWS Storage  4.Compute Services & Networking  5.Managed Services & Database  6. Deployment and Management
+
